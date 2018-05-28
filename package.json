@@ -1,0 +1,47 @@
+{
+  "name": "cordova-plugin-ios-idfa",
+  "version": "1.0.0",
+  "description": "Cordova Advertising ID (IDFA) Plugin",
+  "cordova": {
+    "id": "cordova-plugin-ios-idfa",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliolemesti/cordova-plugin-ios-idfa.git"
+  },
+  "dependencies": {
+    "cordova-plugin-googleplayservices": "19.0.3"
+  },
+  "keywords": [
+    "cordova",
+    "idfa",
+    "advertising id",
+    "cordova plugin",
+    "advertiserId",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "Julio Lemes",
+    "email": "juliolemesti@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/juliolemesti/cordova-plugin-ios-idfa/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/juliolemesti/cordova-plugin-ios-idfa/issues"
+  },
+  "homepage": "https://github.com/juliolemesti/cordova-plugin-ios-idfa#readme"
+}
